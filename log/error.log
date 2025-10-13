@@ -1,0 +1,115 @@
+{"level":"error","message":"test tes","metadata":{},"timestamp":"2025-09-28T10:01:14.494Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"55\" (type string) at path \"_id\" for model \"Rental\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"55\" (type string) at path \"_id\" for model \"Rental\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"55\"","value":"55","valueType":"string"},"timestamp":"2025-09-28T10:18:29.835Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"55\" (type string) at path \"_id\" for model \"Rental\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"55\" (type string) at path \"_id\" for model \"Rental\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"55\"","value":"55","valueType":"string"},"timestamp":"2025-09-28T10:21:42.905Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"68d124b1d8cfdb68787656689\" (type string) at path \"_id\" for model \"Rental\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"68d124b1d8cfdb68787656689\" (type string) at path \"_id\" for model \"Rental\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"68d124b1d8cfdb68787656689\"","value":"68d124b1d8cfdb68787656689","valueType":"string"},"timestamp":"2025-09-28T10:22:19.335Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"32\" (type string) at path \"_id\" for model \"Rental\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"32\" (type string) at path \"_id\" for model \"Rental\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"32\"","value":"32","valueType":"string"},"timestamp":"2025-09-28T10:29:45.979Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"68d124b1d8cfdb6\" (type string) at path \"_id\" for model \"Rental\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"68d124b1d8cfdb6\" (type string) at path \"_id\" for model \"Rental\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"68d124b1d8cfdb6\"","value":"68d124b1d8cfdb6","valueType":"string"},"timestamp":"2025-09-28T12:55:25.040Z"}
+{"level":"error","message":"test tes","metadata":{},"timestamp":"2025-09-28T13:10:10.101Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"68d0304ea7f18f83a15bdbe\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"68d0304ea7f18f83a15bdbe\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"68d0304ea7f18f83a15bdbe\"","value":"68d0304ea7f18f83a15bdbe","valueType":"string"},"timestamp":"2025-09-30T07:39:20.147Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"68d124b1d8cfdb6\" (type string) at path \"_id\" for model \"Rental\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"68d124b1d8cfdb6\" (type string) at path \"_id\" for model \"Rental\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"68d124b1d8cfdb6\"","value":"68d124b1d8cfdb6","valueType":"string"},"timestamp":"2025-09-30T07:39:57.958Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"Genre.findOne({ _id: new ObjectId('68e38e5805a93c8d7e264ffa') })\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"Genre.findOne({ _id: new ObjectId('68e38e5805a93c8d7e264ffa') })\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"Genre.findOne({ _id: new ObjectId('68e38e5805a93c8d7e264ffa') })\"","value":"Genre.findOne({ _id: new ObjectId('68e38e5805a93c8d7e264ffa') })","valueType":"string"},"timestamp":"2025-10-06T09:39:37.735Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"Genre.findOne({ _id: new ObjectId('68e38e70af71dcb0df07aca1') })\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"Genre.findOne({ _id: new ObjectId('68e38e70af71dcb0df07aca1') })\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"Genre.findOne({ _id: new ObjectId('68e38e70af71dcb0df07aca1') })\"","value":"Genre.findOne({ _id: new ObjectId('68e38e70af71dcb0df07aca1') })","valueType":"string"},"timestamp":"2025-10-06T09:40:01.954Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"4\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"4\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"4\"","value":"4","valueType":"string"},"timestamp":"2025-10-06T09:51:22.793Z"}
+{"level":"error","message":"Cannot access 'genre' before initialization","metadata":{},"timestamp":"2025-10-06T09:52:03.176Z"}
+{"level":"error","message":"Cannot access 'genre' before initialization","metadata":{},"timestamp":"2025-10-06T09:52:03.250Z"}
+{"level":"error","message":"mongo is not defined","metadata":{},"timestamp":"2025-10-06T09:52:14.155Z"}
+{"level":"error","message":"mongo is not defined","metadata":{},"timestamp":"2025-10-06T09:52:14.247Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"4\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"4\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"4\"","value":"4","valueType":"string"},"timestamp":"2025-10-06T09:52:22.470Z"}
+{"level":"error","message":"Genre validation failed: name: Path `name` (`1234`, length 4) is shorter than the minimum allowed length (5).","metadata":{"_message":"Genre validation failed","errors":{"name":{"kind":"minlength","message":"Path `name` (`1234`, length 4) is shorter than the minimum allowed length (5).","name":"ValidatorError","path":"name","properties":{"length":4,"message":"Path `name` (`1234`, length 4) is shorter than the minimum allowed length (5).","minlength":5,"path":"name","type":"minlength","value":"1234"},"value":"1234"}},"message":"Genre validation failed: name: Path `name` (`1234`, length 4) is shorter than the minimum allowed length (5).","name":"ValidationError"},"timestamp":"2025-10-06T10:07:42.401Z"}
+{"level":"error","message":"Genre validation failed: name: Path `name` (`1234`, length 4) is shorter than the minimum allowed length (5).","metadata":{"_message":"Genre validation failed","errors":{"name":{"kind":"minlength","message":"Path `name` (`1234`, length 4) is shorter than the minimum allowed length (5).","name":"ValidatorError","path":"name","properties":{"length":4,"message":"Path `name` (`1234`, length 4) is shorter than the minimum allowed length (5).","minlength":5,"path":"name","type":"minlength","value":"1234"},"value":"1234"}},"message":"Genre validation failed: name: Path `name` (`1234`, length 4) is shorter than the minimum allowed length (5).","name":"ValidationError"},"timestamp":"2025-10-06T10:10:09.205Z"}
+{"level":"error","message":"Genre validation failed: name: Path `name` (`123456789101112131415161718192...`, length 51) is longer than the maximum allowed length (50).","metadata":{"_message":"Genre validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`123456789101112131415161718192...`, length 51) is longer than the maximum allowed length (50).","name":"ValidatorError","path":"name","properties":{"length":51,"maxlength":50,"message":"Path `name` (`123456789101112131415161718192...`, length 51) is longer than the maximum allowed length (50).","path":"name","type":"maxlength","value":"123456789101112131415161718192..."},"value":"123456789101112131415161718192..."}},"message":"Genre validation failed: name: Path `name` (`123456789101112131415161718192...`, length 51) is longer than the maximum allowed length (50).","name":"ValidationError"},"timestamp":"2025-10-06T10:12:24.931Z"}
+{"level":"error","message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...`, length 51) is longer than the maximum allowed length (50).","metadata":{"_message":"Genre validation failed","errors":{"name":{"kind":"maxlength","message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...`, length 51) is longer than the maximum allowed length (50).","name":"ValidatorError","path":"name","properties":{"length":51,"maxlength":50,"message":"Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...`, length 51) is longer than the maximum allowed length (50).","path":"name","type":"maxlength","value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa..."},"value":"aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa..."}},"message":"Genre validation failed: name: Path `name` (`aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa...`, length 51) is longer than the maximum allowed length (50).","name":"ValidationError"},"timestamp":"2025-10-06T10:15:07.049Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"1\"","value":"1","valueType":"string"},"timestamp":"2025-10-07T07:24:07.878Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"1\"","value":"1","valueType":"string"},"timestamp":"2025-10-07T07:24:44.419Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-07T16:30:57.191Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-07T16:31:27.278Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-07T16:31:45.439Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-07T16:32:22.394Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-07T16:32:45.043Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-07T16:33:26.454Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-07T16:35:53.130Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-07T16:36:04.116Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T06:40:40.744Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T06:40:56.439Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T06:41:26.263Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T06:42:10.822Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:02:17.878Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:03:02.202Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:08:45.594Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:12:20.361Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:21:09.999Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'find')","metadata":{},"timestamp":"2025-10-12T07:25:57.582Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'find')","metadata":{},"timestamp":"2025-10-12T07:25:57.883Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:26:02.172Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'find')","metadata":{},"timestamp":"2025-10-12T07:26:58.539Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'find')","metadata":{},"timestamp":"2025-10-12T07:26:58.702Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:27:01.297Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'find')","metadata":{},"timestamp":"2025-10-12T07:27:55.373Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'find')","metadata":{},"timestamp":"2025-10-12T07:27:55.612Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:27:58.101Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:28:11.174Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:28:39.809Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'find')","metadata":{},"timestamp":"2025-10-12T07:28:44.550Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'find')","metadata":{},"timestamp":"2025-10-12T07:28:44.675Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:31:25.994Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:32:04.926Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:32:23.623Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:33:44.050Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:38:14.854Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:39:13.225Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:40:18.579Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:40:58.854Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:41:11.095Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:46:12.821Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T07:52:12.826Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T08:01:32.058Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T08:14:37.258Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T08:21:46.039Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T08:56:32.671Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:40.703Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:40.782Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:40.783Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:40.827Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:40.870Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:40.887Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:40.898Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:40.927Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:40.937Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:40.968Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:41.026Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:41.033Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:41.067Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:41.089Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:41.118Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:41.137Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:41.148Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:41.202Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T09:06:43.563Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:06:43.749Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.105Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.216Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.273Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.283Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.383Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.461Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.521Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.556Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.565Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.649Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.697Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.713Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.767Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.783Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.806Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.831Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.841Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:54.882Z"}
+{"level":"error","message":"validateCustomer is not defined","metadata":{},"timestamp":"2025-10-12T09:09:57.241Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T09:09:57.368Z"}
+{"level":"error","message":"\"customerId\" is not allowed to be empty","metadata":{"statusCode":400},"timestamp":"2025-10-12T09:14:49.945Z"}
+{"level":"error","message":"\"movieId\" is not allowed to be empty","metadata":{"statusCode":400},"timestamp":"2025-10-12T09:14:50.026Z"}
+{"level":"error","message":"\"name\" length must be at least 5 characters long","metadata":{"statusCode":400},"timestamp":"2025-10-12T09:14:50.076Z"}
+{"level":"error","message":"\"name\" length must be less than or equal to 50 characters long","metadata":{"statusCode":400},"timestamp":"2025-10-12T09:14:50.138Z"}
+{"level":"error","message":"\"name\" length must be at least 5 characters long","metadata":{"statusCode":400},"timestamp":"2025-10-12T09:14:50.284Z"}
+{"level":"error","message":"\"name\" length must be less than or equal to 50 characters long","metadata":{"statusCode":400},"timestamp":"2025-10-12T09:14:50.311Z"}
+{"level":"error","message":"Customer not found","metadata":{"statusCode":404},"timestamp":"2025-10-12T09:14:52.724Z"}

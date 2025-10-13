@@ -1,0 +1,6 @@
+{
+     "jwt": {
+    
+  },
+  "db":"mongodb://localhost/vidly"
+}
