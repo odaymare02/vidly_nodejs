@@ -1,0 +1,6 @@
+{
+  "jwt": {
+    "secret": "SECRET_KEY"
+  },
+  "db":"mongodb+srv://mareoday123_db_user:meGt6Q9RS4LGOHkL@vidly.kfrffl9.mongodb.net/?retryWrites=true&w=majority&appName=vidly"
+}
