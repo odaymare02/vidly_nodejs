@@ -1,6 +1,6 @@
 {
   "jwt": {
-    "secret": "SECRET_KEY"
+    "secret": ""
   },
-  "db":"CONNECTION_STRING"
+  "db":""
 }

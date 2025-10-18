@@ -29,7 +29,7 @@ const logger = winston.createLogger({
 
     // سجل كل شيء في MongoDB
     new winston.transports.MongoDB({
-      db: 'mongodb://localhost/vidly-logs', // قاعدة البيانات
+      db: process.env.CONNECTION_STRING || 'mongodb://localhost/vidly-logs', // قاعدة البيانات
       collection: 'appLogs',                    // اسم الكولكشن
       level: 'info',                        // المستوى الأدنى للتسجيل مشان يسجل كل الاشياء
       tryReconnect: true
